@@ -13,6 +13,7 @@ For the neural network, only the following files should be needed:
 For the generation of the inspection leg database, the main files are:
 "SBMPO_single_leg.py" which contains the steps to compute a single inspection leg (instead of a full inspection of multiple legs).
 "database_singleleg_generation.py" which contains the steps to run the "SBMPO_single_leg.py" multiple times and store the results, and create a database.
+"create_dense_database.py" creates a secondary database from the original one in which only close data to each other within a given range is considered.
 
 For any doubts or additional info you can contact me at: alejandro.demiguel@mail.polimi.it
 
