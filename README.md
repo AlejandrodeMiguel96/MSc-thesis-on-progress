@@ -1,7 +1,7 @@
 # MSc-thesis-on-progress
 
 This repository contains the necessary files to run the programme. 
-However, the database files are missing because they are bigger than allowed.
+However, the database files are missing because they are bigger than the GitHub allowed file size.
 The files are: 
 "database_single_leg_635927.npz"
 "dense_database.npz"
